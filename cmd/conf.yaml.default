@@ -1,9 +1,9 @@
 ### 复制该文件并命名为 conf.yaml，并填充以下自定义配置
 
 # 阿里云个人镜像仓库地址
-registry: crpi-xxx.cn-xxx.personal.cr.aliyuncs.com
+registry: crpi-mezg2wo8j5q20k6g.cn-beijing.personal.cr.aliyuncs.com
 # 阿里云个人镜像仓库命名空间名称
-namespace: xxx
+namespace: jack_proxy
 # 所在项目的git仓库本地路径，这里配置错误会导致git push 命令提示仓库不存在
 images_dir: "E:\Git\docker_images_sync"
 # 单个镜像拉取最大尝试次数，默认为60
